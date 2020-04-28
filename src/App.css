@@ -1,3 +1,29 @@
+
+hr{
+  margin-bottom: 50px;
+}
+.card{
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 30px;
+}
+
+button{
+  border-top-right-radius: 0 !important;
+  border-top-left-radius: 0 !important; 
+}
+
+h3{
+  margin-top: -10px;
+  margin-bottom: 3px;
+}
+
+.d-flex{
+  width: 30px;
+  margin-left: 220px;
+}
+
 .App {
   text-align: center;
 }
