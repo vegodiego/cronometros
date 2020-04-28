@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cronometros/static/css/main.ba323c99.chunk.css",
+    "main.js": "/cronometros/static/js/main.3b09d654.chunk.js",
+    "main.js.map": "/cronometros/static/js/main.3b09d654.chunk.js.map",
+    "runtime-main.js": "/cronometros/static/js/runtime-main.cf399b53.js",
+    "runtime-main.js.map": "/cronometros/static/js/runtime-main.cf399b53.js.map",
+    "static/css/2.69121389.chunk.css": "/cronometros/static/css/2.69121389.chunk.css",
+    "static/js/2.2330b87d.chunk.js": "/cronometros/static/js/2.2330b87d.chunk.js",
+    "static/js/2.2330b87d.chunk.js.map": "/cronometros/static/js/2.2330b87d.chunk.js.map",
+    "index.html": "/cronometros/index.html",
+    "precache-manifest.6580a2c040d12d75a86382ce8c619a75.js": "/cronometros/precache-manifest.6580a2c040d12d75a86382ce8c619a75.js",
+    "service-worker.js": "/cronometros/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/cronometros/static/css/2.69121389.chunk.css.map",
+    "static/css/main.ba323c99.chunk.css.map": "/cronometros/static/css/main.ba323c99.chunk.css.map",
+    "static/js/2.2330b87d.chunk.js.LICENSE.txt": "/cronometros/static/js/2.2330b87d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf399b53.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.2330b87d.chunk.js",
+    "static/css/main.ba323c99.chunk.css",
+    "static/js/main.3b09d654.chunk.js"
+  ]
+}
